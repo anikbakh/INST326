@@ -2,5 +2,12 @@ AI Usage Joural
 Atena Nikbakht
 anikbakh@terpmail.umd.edu
 Section 0202
-This week I used AI when brainstorming for ideas for an essay. I brainstormed for my Iranian cinema class what topics relevant to modern cinema I can write about. 
-Additionally, I used Ai to help me with some doing techniques that I was not familiar with. Such as the max() function. I try my best not to use Ai for enviornmental and academic reasons. Only when I feel Ai would benefit me most do I utilize it.
+This week I used AI when brainstorming for ideas for an essay. I 
+brainstormed for my Iranian cinema class what topics relevant to modern 
+cinema I can write about. 
+Additionally, I used Ai to help me with some doing techniques that I was not 
+familiar with. Such as the max() function. I asked it to explan what this 
+function is and what it is mostly used for. I then used the information it 
+gave me to apply to the exercises assignment. I try my best not to use Ai for 
+enviornmental and academic reasons. Only when I feel Ai would benefit me most 
+do I utilize it.
