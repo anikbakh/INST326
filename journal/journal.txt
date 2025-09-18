@@ -2,6 +2,8 @@ AI Usage Joural
 Atena Nikbakht
 anikbakh@terpmail.umd.edu
 Section 0202
+
+Week 1:
 This week I used AI when brainstorming for ideas for an essay. I 
 brainstormed for my Iranian cinema class what topics relevant to modern 
 cinema I can write about. 
@@ -11,3 +13,12 @@ function is and what it is mostly used for. I then used the information it
 gave me to apply to the exercises assignment. I try my best not to use Ai for 
 enviornmental and academic reasons. Only when I feel Ai would benefit me most 
 do I utilize it.
+
+Week 2:
+This week I asked AI to explain the not function to me. I asked it to provide
+it in simple terms and then provide me with examples of how it can be used. 
+I also experimented with AI for marketing and creative materials. I provided it
+with a screenshot of a poster I was making and asked what changes I could make 
+to make it better. I used ChatGpt but didn't really enjoy the result it gave me.
+It did not provide me with visual feedback but rather text-based feedback. I am
+still searching for a better AI tool for creative work.
