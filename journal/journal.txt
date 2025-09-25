@@ -22,3 +22,11 @@ with a screenshot of a poster I was making and asked what changes I could make
 to make it better. I used ChatGpt but didn't really enjoy the result it gave me.
 It did not provide me with visual feedback but rather text-based feedback. I am
 still searching for a better AI tool for creative work.
+
+Week 3:
+This week I used AI to help me with my BSCI135 class. I had a pre-lab reading
+and quiz to do and as I have not studied biology much I wanted to make sure 
+that I was understanding the material. I asked AI to explplain to me things 
+such as gametes and zygotes. I also used it to teach me some Python functions 
+that I did not know for the week 3 Exercises such as the purpose of triple 
+quotation marks and args and kwargs from the lecture.
