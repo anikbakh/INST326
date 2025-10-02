@@ -30,3 +30,6 @@ that I was understanding the material. I asked AI to explplain to me things
 such as gametes and zygotes. I also used it to teach me some Python functions 
 that I did not know for the week 3 Exercises such as the purpose of triple 
 quotation marks and args and kwargs from the lecture.
+
+Week 4:
+This week I used AI to help me with my statistics course. I utilized it to check my work when calculating z-score and checking for bugs in my code for R.
