@@ -32,4 +32,9 @@ that I did not know for the week 3 Exercises such as the purpose of triple
 quotation marks and args and kwargs from the lecture.
 
 Week 4:
-This week I used AI to help me with my statistics course. I utilized it to check my work when calculating z-score and checking for bugs in my code for R.
+This week I used AI to help me with my statistics course. I utilized it to 
+check my work when calculating z-score and checking for bugs in my code for R. 
+As I also had an exam for my biology course, I at times used AI to explain 
+certain topics and concepts. I feel that I did not use AI as much this week
+as I was studying for my exam and most of the material was one lecture slides.
+
