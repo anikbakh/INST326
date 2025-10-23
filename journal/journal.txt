@@ -45,3 +45,11 @@ more complex texts from our textbook. It helped me in giving a more thorough
 presentation. I also asked it to help me with this week's exercises and asked
 it to explain the protection concepts we learn to make sure I fully understood 
 them.
+
+Week 6:
+This week I used AI in developing our groups's Project 01. I used AI to check for
+bugs in my teammates' code as I was the project manager and in charge of submitting
+a good body of work. I also used AI in aiding me in the Persian cinema class to help
+me in developing my scene analysis essay. I asked it to give me examples of what a
+good essay would look like alongside the criteria/rubric I was given.
+
