@@ -53,3 +53,11 @@ a good body of work. I also used AI in aiding me in the Persian cinema class to 
 me in developing my scene analysis essay. I asked it to give me examples of what a
 good essay would look like alongside the criteria/rubric I was given.
 
+Week 7:
+This week I have been using AI to help me study for my upcoming exams. For my statistics
+course, I have used AI to summarize textbook chapters or asked clarifying questions. 
+I also used it to provide me with practice questions based on study guides and practice
+exams I have been given in the course. I have also been using it to practice for my
+lab practical which utilizes RStudio. I have asked AI to check for any bugs in my code 
+and how to most efficiently execute certain problems.
+
