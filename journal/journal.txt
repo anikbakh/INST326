@@ -61,3 +61,11 @@ exams I have been given in the course. I have also been using it to practice for
 lab practical which utilizes RStudio. I have asked AI to check for any bugs in my code 
 and how to most efficiently execute certain problems.
 
+
+Week 8:
+This week I have continued to use AI for my exams. I utilized it 
+to generate practice questions for my statistics course and to 
+summarize chapters from my textbook. I have primarily used AI for 
+studying, and didn't use it much otherwise this week. I expect that 
+I may use it for the upcoming project 03 to check for bugs and review 
+our team's code.
