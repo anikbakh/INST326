@@ -69,3 +69,11 @@ summarize chapters from my textbook. I have primarily used AI for
 studying, and didn't use it much otherwise this week. I expect that 
 I may use it for the upcoming project 03 to check for bugs and review 
 our team's code.
+
+Week 9:
+This week I used AI for my Persian cinema class to brainstorm for our 
+upcoming project. I asked it to brainstorm ideas for a film series
+with specific genres and themes. I did not use AI much other than 
+that this week but expect to use it more with the upcoming project 
+03 and 04.
+
